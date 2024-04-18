@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"> -->
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B) -->
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=" alt=""> -->
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+YOURNAME;Nice+to+meet+you+%F0%9F%91%8B) -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -41,13 +41,13 @@ demonstrating a strong commitment to collaboration and innovation.
 </p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/joshuamillerdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
-<a href="mailto:millerjoshua737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a><a href="https://joshuarmiller.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
- " height=23></a>
+<a href="mailto:millerjoshua737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<a href="https://joshuarmiller.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
-   <!-- <a href="https://twitter.com/HalemoGPA"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
+   <!-- <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
+<!--   <a href="https://github.com//"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
  <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
-  <!-- <a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a> <a href="https://curiouscat.live/HalemoGPA"><img src="https://img.shields.io/badge/Curious%20Cat-ff5c00?style=for-the-badge&logo=curiouscat&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/HGPA"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a> -->
+  <!-- <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a> <a href="https://curiouscat.live/"><img src="https://img.shields.io/badge/Curious%20Cat-ff5c00?style=for-the-badge&logo=curiouscat&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/HGPA"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a> -->
   </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
@@ -113,16 +113,16 @@ demonstrating a strong commitment to collaboration and innovation.
 
 <hr>
 <!-- <p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+  <a href="https://www.buymeacoffee.com/" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buy me a coffee" width="230"></a>
 </p> -->
 
 <!--
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=" alt=""/>       
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/JoshuaMilerCode" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
 <!-- <iframe src="https://joshuarmiller.dev/assets/Joshua-Miller-Full%20Stack%20Software%20Engineer.pdf" width=100% height=500></iframe> -->
