@@ -122,7 +122,7 @@ demonstrating a strong commitment to collaboration and innovation.
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/JoshuaMilerCode" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/JoshuaMillerCode" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
 <!-- <iframe src="https://joshuarmiller.dev/assets/Joshua-Miller-Full%20Stack%20Software%20Engineer.pdf" width=100% height=500></iframe> -->
