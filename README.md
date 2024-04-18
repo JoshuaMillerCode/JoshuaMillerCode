@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-=======
->>>>>>> 192aab5 (README.md v1)
 <!--
 **JoshuaMillerCode/JoshuaMillerCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<<<<<< HEAD
-=======
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"> -->
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B) -->
 
@@ -47,8 +40,8 @@ demonstrating a strong commitment to collaboration and innovation.
   📫 How to reach me 👇
 </p>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/joshuamillerdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:millerjoshua737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
- <a href="https://joshuarmiller.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
+<a href="https://www.linkedin.com/in/joshuamillerdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+<a href="mailto:millerjoshua737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a><a href="https://joshuarmiller.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
  " height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
    <!-- <a href="https://twitter.com/HalemoGPA"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
@@ -132,6 +125,5 @@ demonstrating a strong commitment to collaboration and innovation.
   <a href="https://www.github.com/HalemoGPA" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
-<iframe src="https://joshuarmiller.dev/assets/Joshua-Miller-Full%20Stack%20Software%20Engineer.pdf" width=100% height=500></iframe>
+<!-- <iframe src="https://joshuarmiller.dev/assets/Joshua-Miller-Full%20Stack%20Software%20Engineer.pdf" width=100% height=500></iframe> -->
 
->>>>>>> 192aab5 (README.md v1)
