@@ -40,9 +40,9 @@ demonstrating a strong commitment to collaboration and innovation.
   📫 How to reach me 👇
 </p>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/joshuamillerdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+<a href="https://www.linkedin.com/in/joshuamillerdev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
 <a href="mailto:millerjoshua737@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-<a href="https://joshuarmiller.dev"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
+<a href="https://joshuarmiller.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
    <!-- <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a> -->
 <!--   <a href="https://github.com//"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
@@ -72,9 +72,9 @@ demonstrating a strong commitment to collaboration and innovation.
   <img title="GitHub" height="25" src="images/github.svg">
   <img title="Visual Studio Code" height="25" src="images/vscode.png"> -->
   <p align="center">
-  <a href="https://skillicons.dev">
+  <!-- <a href="https://skillicons.dev"> -->
     <img src="https://skillicons.dev/icons?i=git,react,nextjs,graphql,redux,js,html,css,nodejs,express,postman,docker,kubernetes,vscode&perline=7" />
-  </a>
+  <!-- </a> -->
 </p>
   
   
@@ -89,7 +89,7 @@ demonstrating a strong commitment to collaboration and innovation.
 
 
 <p align="center">
-<a href="https://github.com/JoshuaMillerCode/">
+<a href="https://github.com/JoshuaMillerCode/" >
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMillerCode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb" />
  </a>
 </p>
@@ -98,11 +98,11 @@ demonstrating a strong commitment to collaboration and innovation.
 <h2 align="center">💹 Featured Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/JoshuaMillerCode/node-backend-starter/">
+<a href="https://github.com/JoshuaMillerCode/node-backend-starter/" target="_blank">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaMillerCode&repo=node-backend-starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
   
-<a href="https://github.com/JoshuaMillerCode/bookanook-backend/">
+<a href="https://github.com/JoshuaMillerCode/bookanook-backend/" target="_blank">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaMillerCode&repo=bookanook-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 <!-- <a href="https://github.com/calvin-fair/FOMO/">
@@ -122,7 +122,7 @@ demonstrating a strong commitment to collaboration and innovation.
 </p>
 -->
 <p align="center">
-  <a href="https://www.github.com/JoshuaMilerCode" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <a href="https://www.github.com/JoshuaMilerCode" rel="noreferrer"><img src="https://img.shields.io/github/followers/JoshuaMillerCode?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
 
 <!-- <iframe src="https://joshuarmiller.dev/assets/Joshua-Miller-Full%20Stack%20Software%20Engineer.pdf" width=100% height=500></iframe> -->
