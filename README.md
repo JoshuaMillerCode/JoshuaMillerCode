@@ -102,6 +102,10 @@ demonstrating a strong commitment to collaboration and innovation.
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaMillerCode&repo=node-backend-starter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
 
+<a href="https://github.com/JoshuaMillerCode/MyAlgos/" target="_blank">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaMillerCode&repo=MyAlgos&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 <!-- <a href="https://github.com/calvin-fair/FOMO/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=calvin-fair&repo=FOMO&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    -->
